@@ -78,6 +78,7 @@ textarea{
     margin: auto;
     border-radius: 12px;
     width: 40%;
+    cursor:pointer;
     
 
 }
