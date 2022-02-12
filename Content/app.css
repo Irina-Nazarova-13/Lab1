@@ -91,3 +91,12 @@ textarea{
     float: inline-end;
 }
 
+.logo{
+    margin-top: 8px;
+    margin-left: 20px;
+    float:left
+}
+
+.form-button:hover{
+    border-color: #ABABAB;
+}
